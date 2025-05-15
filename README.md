@@ -4,9 +4,9 @@ A sleek and modern news application built with React Native and Expo, featuring 
 
 ![News App Preview]
 
-![light](https://github.com/user-attachments/assets/ac5f568a-bfb3-4c4a-86c7-287faed40ec0)
+![light](https://github.com/user-attachments/assets/ac5f568a-bfb3-4c4a-86c7-287faed40ec0) ![dark](https://github.com/user-attachments/assets/c69a92f2-318a-4b7a-9878-0c45df86164a)
 
-![dark](https://github.com/user-attachments/assets/c69a92f2-318a-4b7a-9878-0c45df86164a)
+
 
 
 ## ✨ Features
