@@ -122,14 +122,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Expo](https://expo.dev/)
-- [React Native](https://reactnative.dev/)
-- [Poppins Font](https://fonts.google.com/specimen/Poppins)
-
-## 📧 Contact
-
-Husney - [@husney24](https://github.com/husney24)
-
-Project Link: [https://github.com/husney24/news-app](https://github.com/husney24/news-app)
