@@ -2,9 +2,15 @@
 
 A sleek and modern news application built with React Native and Expo, featuring a beautiful UI, dark/light theme support, and smooth animations.
 
-![News App Preview](https://via.placeholder.com/800x400?text=News+App+Preview)
+![News App Preview]
+
+![light](https://github.com/user-attachments/assets/ac5f568a-bfb3-4c4a-86c7-287faed40ec0)
+
+![dark](https://github.com/user-attachments/assets/c69a92f2-318a-4b7a-9878-0c45df86164a)
+
 
 ## ✨ Features
+![light](https://github.com/user-attachments/assets/f680fa06-ac94-4aa1-a561-359218238965)
 
 - 🌓 Dark/Light theme support with system preference detection
 - 🎨 Modern and clean UI design
